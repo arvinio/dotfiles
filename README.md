@@ -5,3 +5,4 @@ saved configs and such
 |filename   |purpose   |
 |---|---|
 |settings.json   |VSCode user settings   |
+|eslint_setup.md   |Guide for setting up eslint locally in VSCode   |
