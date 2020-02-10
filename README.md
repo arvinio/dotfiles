@@ -4,4 +4,4 @@ saved configs and such
 ## What is what?
 |filename   |purpose   |
 |---|---|
-|settings.js   |VSCode user settings   |
+|settings.json   |VSCode user settings   |
