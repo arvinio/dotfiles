@@ -12,6 +12,8 @@ Globally: Allows you to apply consistent rules to any JS file that you open.
 yarn add -D eslint babel-eslint eslint-config-standard eslint-config-standard-react eslint-plugin-standard eslint-plugin-promise eslint-plugin-import eslint-plugin-node eslint-plugin-react
 ```
 
+Copy `.eslintrc` to your project root.
+
 In VSCode, install extensions: 
 - Babel Javascript `mgmcdermott.vscode-language-babel`
 - ESLint `dbaeumer.vscode-eslint`
