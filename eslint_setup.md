@@ -9,7 +9,7 @@ Globally: Allows you to apply consistent rules to any JS file that you open.
 **Everything at once:**
 
 ```
-yarn add -D eslint babel-eslint eslint-config-standard eslint-config-standard-react eslint-plugin-standard eslint-plugin-promise eslint-plugin-import eslint-plugin-node eslint-plugin-react
+yarn add -D eslint@5.0.0 babel-eslint eslint-config-standard eslint-config-standard-react eslint-plugin-standard eslint-plugin-promise eslint-plugin-import eslint-plugin-node eslint-plugin-react
 ```
 
 Copy [.eslintrc](https://github.com/arvinio/dotfiles/blob/master/.eslintrc) to your project root.
